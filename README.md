@@ -1,8 +1,11 @@
-### 🌱 성장하는 개발자 김민혁입니다.
+## 🌱 성장하는 개발자 김민혁입니다.
 
-<h3> My Blog <h3>
+### 📚 Study At
+Hanbat National University
+  - *Major : Electrical Engineering*
+  - *Minor : Computer Engineering*
   
-<h3> 📚 Tech Stack</h3>
+<h3>🔥 Tech Stack</h3>
 <p> 
   <img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -23,7 +26,5 @@
   <img alt="Opencv" src="https://img.shields.io/badge/-Opencv-5C3EE8?style=flat-square&logo=Opencv&logoColor=white"/>
   <br>
 </p>
-  
-<h3> 🐳 Only use Once </h3>
-<p>
-  <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+
+### My Blog : https://jcs5650.tistory.com/
