@@ -1,10 +1,6 @@
 ## 🌱 어제보다 더 나은 오늘
 
-### 📚 Study At
-Hanbat National University
-  - *Major : Electrical Engineering*
-  - *Minor : Computer Engineering*
-  
+
 <h3>🔥 Tech Stack</h3>
 <p> 
   <img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
@@ -27,4 +23,4 @@ Hanbat National University
   <br>
 </p>
 
-### My Blog : https://jcs5650.tistory.com/
+### My Blog : https://velog.io/@manx
