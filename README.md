@@ -1,4 +1,4 @@
-## 💻 Back-end Developer - Minhyuk Kim
+## 💻 Backend Developer - Minhyuk Kim
 
 
 <h3>🔥 Tech Stack</h3>
