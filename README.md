@@ -1,4 +1,4 @@
-## 🌱 어제보다 더 나은 오늘
+## 💻 Back-end Developer - Minhyuk Kim
 
 
 <h3>🔥 Tech Stack</h3>
