@@ -1,7 +1,7 @@
 ## 💻 Backend Developer - Minhyuk Kim
 
 
-<h3>🔥 Tech Stack</h3>
+<h3> 🌱 Tech Stack</h3>
 <p> 
   <img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -22,6 +22,8 @@
   <img alt="Opencv" src="https://img.shields.io/badge/-Opencv-5C3EE8?style=flat-square&logo=Opencv&logoColor=white"/>
   <br>
 </p>
+
+<h3> My project </h3>
 
 ### My Blog & Git
 <p><a href="https://github.com/jcs5650" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>  <a href="https://velog.io/@manx" target="_blank"><img alt="Velog" src="https://img.shields.io/badge/velog-%20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white" /></a>
