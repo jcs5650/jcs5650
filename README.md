@@ -1,7 +1,7 @@
 ## 💻 Backend Developer - Minhyuk Kim
 
 
-<h3> 🌱 Tech Stack</h3>
+<h3> 🔥 Tech Stack</h3>
 <p> 
   <img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
