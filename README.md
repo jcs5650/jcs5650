@@ -24,6 +24,8 @@
 </p>
 
 <h3> My project </h3>
+- 애도 https://github.com/jcs5650/Aedo
+
 
 ### My Blog & Git
 <p><a href="https://github.com/jcs5650" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>  <a href="https://velog.io/@manx" target="_blank"><img alt="Velog" src="https://img.shields.io/badge/velog-%20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white" /></a>
